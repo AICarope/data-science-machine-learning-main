@@ -1,0 +1,15 @@
+name: cn_ml_course
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - numpy
+  - seaborn
+
+c:\Users\Administrator\Downloads\data-science-machine-learning-main
+c:\Users\Administrator\Downloads\data-science-machine-learning-main
+conda env create -f environment.yml

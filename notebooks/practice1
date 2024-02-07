@@ -1,0 +1,6 @@
+if user.hasRole("Premium"):
+    print("Premium member. Access granted!")
+elif user.hasRole("Bootcamp"):
+    print("Bootcamp student. Access granted!")
+else:
+    print("Non-member. Access denied :(")
